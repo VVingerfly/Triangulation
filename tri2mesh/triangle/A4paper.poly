@@ -1,0 +1,12 @@
+# A rectangle with a A4 paper size(210mm x 297mm)
+# 4 points in 2D, no sttributes, no boundary marker.
+4 2 0 0
+#vertices position
+1    10.5 14.85
+2    -10.5 14.85
+3    -10.5 -14.85
+4    10.5 -14.85 
+#4 segments without boundary marker
+1 0
+1    1 2
+0
